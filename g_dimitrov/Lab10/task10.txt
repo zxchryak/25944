@@ -1,0 +1,3 @@
+--- START OF FILE ---
+This file is printed by the cat command.
+--- END OF FILE ---
