@@ -7,7 +7,6 @@
 #include <ctype.h>
 #include <string.h>
 #include <errno.h>
-
 #define LINE_LIMIT 40
 #define CTRL_D 4
 #define CTRL_W 23
